@@ -1,4 +1,5 @@
-version: 2
+<script src="https://kit.fontawesome.com/b2e7d5dd7b.js" crossorigin="anonymous"></script>
+: 2
 
 defaults: &defaults
   working_directory: ~/repo
